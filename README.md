@@ -1,1 +1,1 @@
-# VibeStore
+# Vibe Store
