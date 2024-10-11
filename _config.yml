@@ -12,3 +12,6 @@ social:
   github: "https://github.com/username"  # Add links to your social profiles
   twitter: "https://twitter.com/username"
   linkedin: "https://linkedin.com/in/username"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
